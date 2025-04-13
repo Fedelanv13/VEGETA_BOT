@@ -1,5 +1,5 @@
 {
-"name": "VEGETA-BOT-MB",
+"name": "VEGETA-BOT",
 "version": "2.2.0",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/brayan127p/VEGETA-BOT-MB",
+"homepage": "https://github.com/Fedelanv13/VEGETA_BOT",
 "author": {
-"name": "Brayan"
+"name": "Fedelan"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/brayan127p/VEGETA-BOT-MB.git"
+"url": "git+https://github.com/Fedelanv13/VEGETA_BOT.git"
 },
 "bugs": {
-"url": "https://github.com/brayan127p/VEGETA-BOT-MB/issues"
+"url": "https://github.com/Fedelanv13/VEGETA_BOT/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
