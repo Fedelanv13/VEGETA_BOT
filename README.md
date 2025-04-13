@@ -10,7 +10,6 @@
 <div align="center">
  
 [![Dueño](https://img.shields.io/badge/Dueño-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491156178758)
-[![Soporte](https://img.shields.io/badge/soporte-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5491156178758)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vegeta-bot)
 </div>
 
@@ -178,7 +177,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 
 ### **`🚀 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
-href="https://github.com/Fedelanv13"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Fedelan"/></a>
+href="https://github.com/Fedelanv13"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Fedelanv13"/></a>
 
 </a> 
 
@@ -186,6 +185,6 @@ href="https://github.com/Fedelanv13"><img src="https://qu.ax/aDqOk.jpg" width="1
 
 ### **`💵 𝑪𝑹𝑬𝑫𝑰𝑻𝑶𝑺`**
 <a
-href="https://github.com/Fedelamv13"><img src="https://github.com/Fedelav13.png" width="140" height="140" alt="Brayan"/></a>
+href="https://github.com/Fedelanv13"><img src="https://github.com/Fedelanv13.png" width="140" height="140" alt="Fedelanv13"/></a>
 
 [© Powered By Team STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
