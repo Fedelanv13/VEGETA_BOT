@@ -179,9 +179,8 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 </a> 
 
 
-
 ### **`👑 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
 href="https://github.com/Fedelanv13"><img src="https://github.com/Fedelanv13.png" width="140" height="140" alt="Fedelanv13"/></a>
 
-[© Powered By Team STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
+[© ძᥱ᥎ᥱᥣ᥆⍴ᥱძ ᑲᥡ • 𝖿ᥱძᥱᥣᥲᥒ ⚡︎](https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H))
