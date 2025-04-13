@@ -1,5 +1,5 @@
 <h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃💨</h1>
- <p align="center">🌟 déjanos tu super estrella</p>
+ <p align="center"> WhatsApp Bot</p>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenido+al+Repositorio;𝚅𝙴𝙶𝙴𝚃𝙰+-+𝙱𝙾𝚃+;Gracias+por+preferirnos;Creado+por+Fedelan;💨🔥+BOOM!!!;💨🔥)](https://git.io/typing-svg)
@@ -34,7 +34,7 @@ href="https://wa.me/5491156178758?text="><img src="https://qu.ax/ugHh.jpg" heigh
 <details>
 <summary><b> 💣 Contáctos</b></summary>
 
-* https://wa.me/526641804242
+* https://wa.me/5491156178758
 
 ---
 
