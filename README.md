@@ -1,4 +1,4 @@
-<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃-𝙼𝙱 💨</h1>
+<h1 align="center">𝚅𝙴𝙶𝙴𝚃𝙰-𝙱𝙾𝚃💨</h1>
  <p align="center">🌟 déjanos tu super estrella</p>
 </p>
 
@@ -178,7 +178,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 
 ### **`🚀 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
-href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Brayan"/></a>
+href="https://github.com/fedelanv13"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Fedelan"/></a>
 
 </a> 
 
@@ -186,6 +186,6 @@ href="https://github.com/brayan127p"><img src="https://qu.ax/aDqOk.jpg" width="1
 
 ### **`💵 𝑪𝑹𝑬𝑫𝑰𝑻𝑶𝑺`**
 <a
-href="https://github.com/brayan127p"><img src="https://github.com/brayan127p.png" width="140" height="140" alt="Brayan"/></a>
+href="https://github.com/fedelamv13"><img src="https://github.com/fedelav13.png" width="140" height="140" alt="Brayan"/></a>
 
 [© Powered By Team STARCORE ⚡︎](https://whatsapp.com/channel/0029Vb7CL7dGk1FtzTLjNt3S)
