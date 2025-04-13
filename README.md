@@ -159,7 +159,7 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 |------|-------------|-------|
 | WhatsApp | Canal | [¡Click aquí!](https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H) |
 | WhatsApp | Team STARCORE | [¡Click aquí!](https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H) |
-| WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
+| WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/L6Aiv7yk9YNEcmgGn4Sw7u) |
  
 
 
