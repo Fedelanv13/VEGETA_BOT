@@ -26,17 +26,6 @@
 
 ---
 
-### **`💭 Contáctanos`**
-
-<a
-href="https://wa.me/5491156178758?text="><img src="https://qu.ax/ugHh.jpg" height="125px"></a>
-
-<details>
-<summary><b> 💣 Contáctos</b></summary>
-
-* https://wa.me/5491156178758
-
----
 
 
 </details>
