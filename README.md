@@ -27,10 +27,8 @@
 ---
 
 
-
 </details>
 
----
 
 ### **`⬇️ Click en la imagen para obtener termux⬇️`**
 <a
