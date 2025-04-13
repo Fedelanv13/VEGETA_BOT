@@ -24,6 +24,7 @@
 
 </details>
 
+
 ---
 
 
@@ -53,7 +54,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/Fedelanv13/VEGETA_BOT && cd VEGETA-BOT
+git clone https://github.com/Fedelanv13/VEGETA_BOT && cd VEGETA_BOT
 ```
 
 ```bash
@@ -72,7 +73,7 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT
+    cd VEGETA_BOT
     ```
 
 2. Inicia el bot nuevamente:
@@ -88,7 +89,7 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 1. Abre Termux y navega al directorio del bot:
     ```bash
-    cd VEGETA-BOT
+    cd VEGETA_BOT
     ```
 
 2. Elimina la carpeta MiniSession:
