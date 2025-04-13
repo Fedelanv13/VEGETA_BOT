@@ -101,10 +101,10 @@ global.gp4 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq'
 global.gp1 = 'https://chat.whatsapp.com/DWVnDWaepEQCn7uzOPxmHq' 
 global.gp2 = 'https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH'
 global.comunidad1 = 'https://chat.whatsapp.com/DiahfK9brw0Azwsk4R9tku'
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.channel2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.md = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+global.channel = 'https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H'
+global.channel2 = 'https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H'
+global.md = 'https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H'
+global.correo = 'https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H'
 global.cn ='https://chat.whatsapp.com/FdBottjrmTvIzD1XTc8vyH';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
