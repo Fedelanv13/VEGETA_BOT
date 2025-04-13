@@ -183,4 +183,4 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 <a
 href="https://github.com/Fedelanv13"><img src="https://github.com/Fedelanv13.png" width="140" height="140" alt="Fedelanv13"/></a>
 
-[© ძᥱ᥎ᥱᥣ᥆⍴ᥱძ ᑲᥡ • 𝖿ᥱძᥱᥣᥲᥒ ⚡︎] (https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H)
+[© ძᥱ᥎ᥱᥣ᥆⍴ᥱძ ᑲᥡ • 𝖿ᥱძᥱᥣᥲᥒ ⚡︎](https://whatsapp.com/channel/0029VbAdxKm8PgsEKwqOJK1H)
