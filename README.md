@@ -175,15 +175,12 @@ href="https://dash.luminarys.shop.home"><img src="https://qu.ax/VAgKd.jpg" heigh
 | WhatsApp | Grupo Ofc | [¡Click aquí!](https://chat.whatsapp.com/Jjs2l4X3LdP7RHr06WsasW) |
  
 
-### **`🚀 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
-<a
-href="https://github.com/Fedelanv13"><img src="https://qu.ax/aDqOk.jpg" width="130" height="130" alt="Fedelanv13"/></a>
 
 </a> 
 
 
 
-### **`💵 𝑪𝑹𝑬𝑫𝑰𝑻𝑶𝑺`**
+### **`👑 𝑷𝒓𝒐𝒑𝒊𝒆𝒕𝒂𝒓𝒊𝒐`**
 <a
 href="https://github.com/Fedelanv13"><img src="https://github.com/Fedelanv13.png" width="140" height="140" alt="Fedelanv13"/></a>
 
